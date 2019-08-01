@@ -183,12 +183,12 @@ font-style: italic;
 	/*text-align: right;*/
 	/*position: absolute;*/
 	/*right: 1%;*/
-	margin-top: -5px;
+	margin-top: -20px;
 
 }
 
 #edl2 {
-	margin-top: 15px;	
+	/*margin-top: 15px;	*/
 	/*text-align: right;
 	position: absolute;
 	right: 1%;*/
@@ -197,13 +197,14 @@ font-style: italic;
 
 
 .degree1 {
-	margin-top: -55px;	
+	margin-top: -20px;	
 	font-style: italic;
 	/*vertical-align: top;*/
 		/*display: inline-block;*/
 }
 
 #edl3 {
+	margin-top: -20px;
 	/*text-align: right;
 	position: absolute;
 	right: 1%;*/
@@ -211,7 +212,7 @@ font-style: italic;
 }
 
 #edl4 {
-	margin-top: 15px;
+	/*margin-top: 15px;*/
 	/*text-align: right;
 	position: absolute;
 	right: 1%;*/
@@ -239,7 +240,7 @@ font-style: italic;
 }
 
 .positionref {
-	margin-top: -35px;	
+	/*margin-top: -35px;	*/
  font-size: 17px;
  font-style: italic;
 }
@@ -500,4 +501,5 @@ font-style: italic;
 	font-style: italic;
 }	
 }
+
 

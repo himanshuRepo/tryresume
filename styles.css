@@ -226,7 +226,7 @@ font-style: italic;
 
 .reference {
 	font-size: 20px;
-	/*margin-top: 10px;*/
+	margin-top: 2px !important;
 	/*vertical-align: top;*/
 		/*display: inline-block;*/
 	
